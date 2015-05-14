@@ -1,0 +1,24 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "robinkam008@qq.com",
+    "longName": "ChinaNav",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "ChinaNav",
+    "uuid": "1da3cc0b-2e82-4b2e-8a64-9c59623f5644",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
